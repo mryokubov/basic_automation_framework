@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <test name="Test Basics 1">
+        <classes>
+            <class name="com.techcenture.academy.tests.ContactUsPageTests"/>
+<!--            <class name="com.techcenture.academy.tests.AmazonPractice"/>-->
+            <class name="com.techcenture.academy.tests.LoginTests"/>
+            <class name="com.techcenture.academy.tests.UserRegistrationTests"/>
+            <class name="com.techcenture.academy.tests.PurchaseItemsTests"/>
+            <class name="com.techcenture.academy.tests.CheckReturnsTests"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
